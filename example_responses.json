@@ -1,0 +1,11 @@
+{
+  "hello bot": "GREETINGS HUMAN",
+  "hey bot": { "alias": "hello bot" },
+  "whatcha doing": [
+    "Plotting.",
+    "NONE OF YOUR BUSINESS HUMAN.",
+    "Dreaming of electric sheep."
+    ],
+  "bye bot": "have a lovely day.",
+  "greetings|salutations .*bot": "Why so formal?"
+}

@@ -1,0 +1,5 @@
+*.pyc
+settings.py
+responses.json
+.DS_Store
+
