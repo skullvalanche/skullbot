@@ -5,6 +5,7 @@
 
 import socket
 import json
+import time
 import random
 import re
 from settings import channel, server, oauth_password, nickname
@@ -67,6 +68,8 @@ def main():
                         else:
                             message = responses.get(k)
                         irc.send(channel, message)
+                        time.sleep(5)
+                        break
 
 if __name__ == "__main__":
     main()
