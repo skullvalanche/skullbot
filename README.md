@@ -1,5 +1,5 @@
 # Skullbot
-A Python based IRC/TwitchBot
+A Python 2.7 based IRC/TwitchBot
 
 # Instructions
 1. Clone the repo
